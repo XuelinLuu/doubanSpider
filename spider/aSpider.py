@@ -4,8 +4,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 import json
 import numpy as np
-import aiohttp
-import asyncio
+
 
 import spider.numberOfPeople as nop
 import spider.spiderAio as saio

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b721a7-a30c-48a3-9f93-8c8af40501f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spider/aSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/aSpider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -209,7 +208,7 @@
       <workItem from="1572870234950" duration="916000" />
       <workItem from="1572881871203" duration="1737000" />
       <workItem from="1572941898356" duration="74000" />
-      <workItem from="1573096674873" duration="2503000" />
+      <workItem from="1573096674873" duration="2691000" />
     </task>
     <servers />
   </component>
@@ -234,7 +233,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/spider/aSpider.py</url>
-          <line>126</line>
+          <line>125</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -244,7 +243,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/spider/aSpider.py</url>
-          <line>34</line>
+          <line>33</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
