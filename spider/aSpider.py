@@ -4,9 +4,11 @@ import urllib.request
 from bs4 import BeautifulSoup
 import json
 import numpy as np
+import aiohttp
+import asyncio
 
 import spider.numberOfPeople as nop
-
+import spider.spiderAio as saio
 
 with open("hds.json", "r") as fp:
     hds = json.load(fp)
@@ -18,17 +20,26 @@ def book_spider(book_tag):
     page_num = 0
     book_list = []
     try_time = 0
+    urls = []
     while True:
         url = 'http://www.douban.com/tag/' + urllib.request.quote(book_tag) + "/book?start=" + str(page_num * 15)
-        print(url)
         #time.sleep(np.random.rand() * 5)
-
+        '''
+        #异步爬虫已经实现，返回的结果尚未进行异步处理
+        #耦合性太高，此模块需拆分
+        #此处是有待修改，默认传入的是booktags，有待修改，暂时先当传入的只有一个标签，后期还需要实现多种标签
+        for i in len(book_tags):
+            url = 'http://www.douban.com/tag/' + urllib.request.quote(book_tag) + "/book?start=" + str(page_num * 15)
+            urls.append(url)
+        '''
+        urls.append(url)
         try:
-            req = urllib.request.Request(url, headers=hds[page_num % len(hds)])
-            # 使用固定的请求头和url访问一个网址，封装成一个request类型
-            source = urllib.request.urlopen(req)
+            source = saio.getAllWebPage(urls)
             # 调用这个request类型，将返回的值存储到source中
-            source_code = source.read().decode("utf-8")
+            source_code = source[0].decode("utf-8")
+            '''
+                可以实现异步，但是还没有实现异步，source_code有待修改，source中返回的是查到的所有booktags
+            '''
             # 对source中的数据进行解码
             plain_text = str(source_code)
             print(type(plain_text))
