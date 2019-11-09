@@ -7,8 +7,8 @@
 #### 直接每一个py文件都可以用来运行
 ## 代码解释：文中有注释
 * |
-* spider--spiderGo.py 开始一个爬虫
-* |--------aSpider 查询某一种类的图书
+* spider--spidersGo.py 开始一个爬虫，可以爬取多种类型的书籍
+* |--------spiderAio 查询某一种类的图书，同时查询多个页面
 * |--------numberOfPeople  查询某一图书的评价人数
 * |
 * sql------conn 连接数据库

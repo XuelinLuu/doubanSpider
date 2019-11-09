@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9b721a7-a30c-48a3-9f93-8c8af40501f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spider/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/aSpider.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/source.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/source_code.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/spiderAio.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/spiderAio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/spidersGo.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/spidersGo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-    </list>
+    <list default="true" id="b9b721a7-a30c-48a3-9f93-8c8af40501f7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +208,7 @@
       <workItem from="1573133879643" duration="1574000" />
       <workItem from="1573206320305" duration="11176000" />
       <workItem from="1573222595765" duration="2393000" />
-      <workItem from="1573263140433" duration="4089000" />
+      <workItem from="1573263140433" duration="4412000" />
     </task>
     <servers />
   </component>
