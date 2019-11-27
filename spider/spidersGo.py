@@ -100,7 +100,7 @@ def book_spider(book_tags):
 
                 ### 此处可以注释掉
                 iiiii += 1
-                print(iiiii)
+                print(iiiii, book_tag)
                 print("书    名： ", title)
                 print("网    址： ", book_url)
                 print("排    名： ", book_rate)
