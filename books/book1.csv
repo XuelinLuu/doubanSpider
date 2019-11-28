@@ -1,16 +1,16 @@
-title;book_url;book_rate;author_info;pub_info;out_year;book_price;book_cover;people_num
-你当像鸟飞往你的山;https://book.douban.com/subject/33440205/?from=tag_all;9.0;['[美]塔拉·韦斯特弗 ', ' 任爱红 ']; 南海出版公司 ; 2019-10-20 ; 59.00元;https://img9.doubanio.com/view/subject/l/public/s33492346.jpg;1254
-杀死一只知更鸟;https://book.douban.com/subject/6781808/?from=tag_all;9.2;['[美] 哈珀·李 ', ' 高红梅 ']; 译林出版社 ; 2012-9 ; 32.00元;https://img3.doubanio.com/view/subject/l/public/s23128183.jpg;54066
-窗边的小豆豆;https://book.douban.com/subject/1007914/?from=tag_all;8.7;['[日] 黑柳彻子 著 ', ' 岩崎千弘 图 ', ' 赵玉皎 ']; 南海出版公司 ; 2003-1 ; 20.00元;https://img3.doubanio.com/view/subject/l/public/s1067911.jpg;130320
-无声告白;https://book.douban.com/subject/26382433/?from=tag_all;8.2;['[美] 伍绮诗 ', ' 孙璐 ']; 江苏凤凰文艺出版社 ; 2015-7 ; 35.00元;https://img3.doubanio.com/view/subject/l/public/s28109182.jpg;101166
-你想活出怎样的人生;https://book.douban.com/subject/34659228/?from=tag_all;8.8;['[日]吉野源三郎 著 ', ' [日]胁田和 绘 ', ' 史诗 ']; 南海出版公司 ; 2019-8 ; 49.5;https://img1.doubanio.com/view/subject/l/public/s33439128.jpg;2050
-如何阅读一本书;https://book.douban.com/subject/1013208/?from=tag_all;8.4;['[美] 莫提默·J. 艾德勒 ', ' 查尔斯·范多伦 ', ' 郝明义 ', ' 朱衣 ']; 商务印书馆 ; 2004-1 ; 38.00元;https://img1.doubanio.com/view/subject/l/public/s1670978.jpg;55623
-非暴力沟通;https://book.douban.com/subject/3533221/?from=tag_all;8.4;['[美] 马歇尔·卢森堡 ', ' 阮胤华 ']; 华夏出版社 ; 2009-1 ; 29.00元;https://img1.doubanio.com/view/subject/l/public/s9346487.jpg;24641
-亲爱的安德烈;https://book.douban.com/subject/3369793/?from=tag_all;8.6;['龙应台 ', ' [德] 安德烈 ']; 人民文学出版社 ; 2008-12 ; 26.00;https://img1.doubanio.com/view/subject/l/public/s3993878.jpg;91139
-小狗钱钱;https://book.douban.com/subject/3576486/?from=tag_all;9.0;['[德] 博多·舍费尔 ', ' 王钟欣 ', ' 余茜 ']; 南海出版公司 ; 2009-2-1 ; 20.00元;https://img3.doubanio.com/view/subject/l/public/s6530133.jpg;18163
-斯通纳;https://book.douban.com/subject/26425831/?from=tag_all;8.8;['[美] 约翰·威廉斯 ', ' 杨向荣 ']; 上海人民出版社 ; 2016-1 ; 49.00元;https://img3.doubanio.com/view/subject/l/public/s28332051.jpg;27088
-人生的智慧;https://book.douban.com/subject/3261600/?from=tag_all;9.2;['[德] 阿图尔·叔本华 ', ' 韦启昌 ']; 上海人民出版社 ; 2008-10 ; 28.00元;https://img3.doubanio.com/view/subject/l/public/s4619775.jpg;12028
-孩子你慢慢来;https://book.douban.com/subject/4207781/?from=tag_all;8.8;['龙应台 ']; 生活·读书·新知三联书店 ; 2009-12-1 ; 28.00元;https://img3.doubanio.com/view/subject/l/public/s4124434.jpg;52624
-杀死一只知更鸟;https://book.douban.com/subject/26879778/?from=tag_all;9.2;['[美] 哈珀·李 ', ' 李育超 ']; 译林出版社 ; 2017-2 ; 48.00;https://img3.doubanio.com/view/subject/l/public/s29350294.jpg;14117
-你的孩子不是你的孩子;https://book.douban.com/subject/34840201/?from=tag_all;8.3;['吴晓乐 ']; 中国友谊出版公司 ; 2019-11 ; 49.80;https://img3.doubanio.com/view/subject/l/public/s33489085.jpg;479
-原生家庭;https://book.douban.com/subject/30199434/?from=tag_all;8.3;['（美）苏珊·福沃德博士 ', ' （美）克雷格·巴克 ', ' 黄姝 ', ' 王婷 ']; 北京时代华文书局│阳光博客 ; 2018-8 ; 58.00;https://img1.doubanio.com/view/subject/l/public/s29746097.jpg;4498
+title,book_url,book_rate,author_info,pub_info,out_year,book_price,book_cover,people_num
+你当像鸟飞往你的山,https://book.douban.com/subject/33440205/?from=tag_all,9.0,"['[美]塔拉·韦斯特弗 ', ' 任爱红 ']", 南海出版公司 , 2019-10-20 , 59.00元,https://img9.doubanio.com/view/subject/l/public/s33492346.jpg,1254
+杀死一只知更鸟,https://book.douban.com/subject/6781808/?from=tag_all,9.2,"['[美] 哈珀·李 ', ' 高红梅 ']", 译林出版社 , 2012-9 , 32.00元,https://img3.doubanio.com/view/subject/l/public/s23128183.jpg,54066
+窗边的小豆豆,https://book.douban.com/subject/1007914/?from=tag_all,8.7,"['[日] 黑柳彻子 著 ', ' 岩崎千弘 图 ', ' 赵玉皎 ']", 南海出版公司 , 2003-1 , 20.00元,https://img3.doubanio.com/view/subject/l/public/s1067911.jpg,130321
+无声告白,https://book.douban.com/subject/26382433/?from=tag_all,8.2,"['[美] 伍绮诗 ', ' 孙璐 ']", 江苏凤凰文艺出版社 , 2015-7 , 35.00元,https://img3.doubanio.com/view/subject/l/public/s28109182.jpg,101166
+你想活出怎样的人生,https://book.douban.com/subject/34659228/?from=tag_all,8.8,"['[日]吉野源三郎 著 ', ' [日]胁田和 绘 ', ' 史诗 ']", 南海出版公司 , 2019-8 , 49.5,https://img1.doubanio.com/view/subject/l/public/s33439128.jpg,2050
+如何阅读一本书,https://book.douban.com/subject/1013208/?from=tag_all,8.4,"['[美] 莫提默·J. 艾德勒 ', ' 查尔斯·范多伦 ', ' 郝明义 ', ' 朱衣 ']", 商务印书馆 , 2004-1 , 38.00元,https://img1.doubanio.com/view/subject/l/public/s1670978.jpg,55623
+非暴力沟通,https://book.douban.com/subject/3533221/?from=tag_all,8.4,"['[美] 马歇尔·卢森堡 ', ' 阮胤华 ']", 华夏出版社 , 2009-1 , 29.00元,https://img1.doubanio.com/view/subject/l/public/s9346487.jpg,24642
+亲爱的安德烈,https://book.douban.com/subject/3369793/?from=tag_all,8.6,"['龙应台 ', ' [德] 安德烈 ']", 人民文学出版社 , 2008-12 , 26.00,https://img1.doubanio.com/view/subject/l/public/s3993878.jpg,91140
+小狗钱钱,https://book.douban.com/subject/3576486/?from=tag_all,9.0,"['[德] 博多·舍费尔 ', ' 王钟欣 ', ' 余茜 ']", 南海出版公司 , 2009-2-1 , 20.00元,https://img3.doubanio.com/view/subject/l/public/s6530133.jpg,18163
+斯通纳,https://book.douban.com/subject/26425831/?from=tag_all,8.8,"['[美] 约翰·威廉斯 ', ' 杨向荣 ']", 上海人民出版社 , 2016-1 , 49.00元,https://img3.doubanio.com/view/subject/l/public/s28332051.jpg,27088
+人生的智慧,https://book.douban.com/subject/3261600/?from=tag_all,9.2,"['[德] 阿图尔·叔本华 ', ' 韦启昌 ']", 上海人民出版社 , 2008-10 , 28.00元,https://img3.doubanio.com/view/subject/l/public/s4619775.jpg,12028
+孩子你慢慢来,https://book.douban.com/subject/4207781/?from=tag_all,8.8,['龙应台 '], 生活·读书·新知三联书店 , 2009-12-1 , 28.00元,https://img3.doubanio.com/view/subject/l/public/s4124434.jpg,52624
+杀死一只知更鸟,https://book.douban.com/subject/26879778/?from=tag_all,9.2,"['[美] 哈珀·李 ', ' 李育超 ']", 译林出版社 , 2017-2 , 48.00,https://img3.doubanio.com/view/subject/l/public/s29350294.jpg,14117
+你的孩子不是你的孩子,https://book.douban.com/subject/34840201/?from=tag_all,8.3,['吴晓乐 '], 中国友谊出版公司 , 2019-11 , 49.80,https://img3.doubanio.com/view/subject/l/public/s33489085.jpg,479
+原生家庭,https://book.douban.com/subject/30199434/?from=tag_all,8.3,"['（美）苏珊·福沃德博士 ', ' （美）克雷格·巴克 ', ' 黄姝 ', ' 王婷 ']", 北京时代华文书局│阳光博客 , 2018-8 , 58.00,https://img1.doubanio.com/view/subject/l/public/s29746097.jpg,4498

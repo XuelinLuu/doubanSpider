@@ -18,6 +18,6 @@ if __name__ == '__main__':
                       }
         print(len(res[0]))
         data_frame = pd.DataFrame(save_books)
-        data_frame.to_csv("..\\books\\book"+ str(k) + ".csv", index=False,sep=";", encoding="utf-8")
+        data_frame.to_csv("..\\books\\book"+ str(k) + ".csv", index=False,sep=",", encoding="utf-8")
         print("finish")
 
