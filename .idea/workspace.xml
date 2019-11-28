@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b721a7-a30c-48a3-9f93-8c8af40501f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spider/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/doubanBooks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/doubanBooks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/spiderAio.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/spiderAio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/spidersGo.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/spidersGo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,9 +76,6 @@
       <module name="doubanBooks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -165,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="doubanBooks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,12 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,10 +182,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.spiderAio" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.spidersGo" />
-        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +221,9 @@
       <workItem from="1573263140433" duration="4412000" />
       <workItem from="1574257361841" duration="213000" />
       <workItem from="1574828177539" duration="5583000" />
+      <workItem from="1574843153982" duration="621000" />
+      <workItem from="1574901473132" duration="3455000" />
+      <workItem from="1574906624380" duration="84000" />
     </task>
     <servers />
   </component>
