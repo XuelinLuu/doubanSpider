@@ -7,7 +7,6 @@ import aiohttp
 import asyncio
 import json
 import numpy as np
-import os
 
 with open("hds.json", "r") as fp:
     hds = json.load(fp)

@@ -1,0 +1,8 @@
+aiohttp
+syncio
+pandas
+numpy
+json
+bs4
+urllib
+pymysql
